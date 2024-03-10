@@ -1,11 +1,11 @@
 # Android Basics
 
 This repository is a group of small projects to used to practice Android development with Kotlin and Jetpack Compose.
-- [Business Card](https://github.com/igorbesantos/android-basics#business-card)
-- [Article Viewer (LearnTogether)](https://github.com/igorbesantos/android-basics#article-viewer)
-- [Happy Birthday Card](https://github.com/igorbesantos/android-basics#happy-birthday-card)
-- [Compose Quadrant](https://github.com/igorbesantos/android-basics#compose-quadrant)
-- [Tasks completed screen (Task Manager)](https://github.com/igorbesantos/android-basics#task-manager)
+- [Business Card](#business-card)
+- [Article Viewer (LearnTogether)](#article-viewer)
+- [Happy Birthday Card](#happy-birthday-card)
+- [Compose Quadrant](#compose-quadrant)
+- [Tasks completed screen (Task Manager)](#task-manager)
 
 # Business Card
 
