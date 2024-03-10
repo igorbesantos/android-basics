@@ -1,6 +1,6 @@
 # Android Basics
 
-This repository is a group of small projects to used to practice Android Apps development with Kotlin and Jetpack Compose.
+This repository is a group of small projects to used to practice Android development with Kotlin and Jetpack Compose.
 - [Business Card](https://github.com/igorbesantos/android-basics#business-card)
 - [Article Viewer (LearnTogether)](https://github.com/igorbesantos/android-basics#article-viewer)
 - [Happy Birthday Card](https://github.com/igorbesantos/android-basics#happy-birthday-card)
